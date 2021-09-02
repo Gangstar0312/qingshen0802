@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm TsingShen Jin</h1>
-<h3 align="center">Veteran Native iOS and Android Application Developer from China</h3>
+<h3 align="left">Veteran Native iOS and Android Application Developer from China</h3>
+
 <p>Want to build Mobile App? Faced at issues for mobile app projects? I'm READY for YOU. I have developed and delivered beautiful and high-quality iOS and Android apps for 7+ years and got strong experience in integrating Google Map, Google Analytics, Firebase, AWS, Google Cloud Messaging, REST APIs, Social Media, 3rd Party SDK, etc. for mobile apps. Because I'm familiar with various Programming Design Patterns and Agile Methodology, I can perform all sorts of tasks from start to ﬁnish, such as Prototype, POC, Completion/Deployment, Maintenance, Bugﬁx, etc. 
   Tech stacks 
   - iPhone/iPad/watchOS app with Swift, Objective C, SwiftUI, Storyboard, Cocoapods libs 
@@ -24,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table style="border-size:0px">
   <tr >
-    <td style="border: none;"><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"> Android </td>    
+    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"> Android </td>    
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"> Apple iOS </td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> Java </td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"> Kotlin </td>    
