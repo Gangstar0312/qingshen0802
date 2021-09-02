@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋, I'm TsingShen Jin</h1>
+<h1 align="left">Hi 👋, I'm TsingShen Jin</h1>
 <h3 align="left">Veteran Native iOS and Android Application Developer from China</h3>
 
 <p>Want to build Mobile App? Faced at issues for mobile app projects? I'm READY for YOU. I have developed and delivered beautiful and high-quality iOS and Android apps for 7+ years and got strong experience in integrating Google Map, Google Analytics, Firebase, AWS, Google Cloud Messaging, REST APIs, Social Media, 3rd Party SDK, etc. for mobile apps. Because I'm familiar with various Programming Design Patterns and Agile Methodology, I can perform all sorts of tasks from start to ﬁnish, such as Prototype, POC, Completion/Deployment, Maintenance, Bugﬁx, etc. 
+  <br/>
   Tech stacks 
+  <br/>
   - iPhone/iPad/watchOS app with Swift, Objective C, SwiftUI, Storyboard, Cocoapods libs 
+  <br/>
   - Android app with Java and Kotlin 
+  <br/>
   - Architecture: MVVM, MVP, MVC 
+  <br/>
   - Source control via Git, Task management with Jira, Trello 
+  <br/>
   - Database: SQLite, Realm, Firebase, Core data
+  <br/>
  </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qingshen0802&label=Profile%20views&color=0e75b6&style=flat" alt="qingshen0802" /> </p>
-
-- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **native iOS and Android projects.**
 
 - 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C**
-
-- 📫 How to reach me **vtwoguru@gmail.com**
+- 
+- 🌱 I’m currently learning **Blockchain Tech**
+- 
+- 📫 Reach me at **vtwoguru@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingshen0802" alt="qingshen0802" /></a> </p>
 
@@ -46,3 +51,5 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/tsingshen-jin-7b8120138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tsingshen-jin-7b8120138" height="30" width="40" /></a>
 <a href="https://fb.com/tsingshen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsingshen" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qingshen0802&label=Profile%20views&color=0e75b6&style=flat" alt="qingshen0802" /> </p>
