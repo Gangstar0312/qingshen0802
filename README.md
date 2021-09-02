@@ -8,29 +8,7 @@
 - 🌱 I’m currently learning **Blockchain Tech**
 
 - 📫 Reach me at **vtwoguru@gmail.com**
-
-<p>Want to build Mobile App?
-  <br/>
-  Faced at issues for mobile app projects? 
-  <br/>
-  I'm READY for YOU. 
-  <br/>
-  I have developed and delivered beautiful and high-quality iOS and Android apps for 7+ years and got strong experience in integrating Google Map, Google Analytics, Firebase, AWS, Google Cloud Messaging, REST APIs, Social Media, 3rd Party SDK, etc. for mobile apps. Because I'm familiar with various Programming Design Patterns and Agile Methodology, I can perform all sorts of tasks from start to ﬁnish, such as Prototype, POC, Completion/Deployment, Maintenance, Bugﬁx, etc. 
-  <br/>
-  Tech stacks 
-  <br/>
-  - iPhone/iPad/watchOS app with Swift, Objective C, SwiftUI, Storyboard, Cocoapods libs 
-  <br/>
-  - Android app with Java and Kotlin 
-  <br/>
-  - Architecture: MVVM, MVP, MVC 
-  <br/>
-  - Source control via Git, Task management with Jira, Trello 
-  <br/>
-  - Database: SQLite, Realm, Firebase, Core data
-  <br/>
- </p>
-
+  
 <h3 align="left">Languages and Tools:</h3>
 <table style="border-size:0px">
   <tr >
