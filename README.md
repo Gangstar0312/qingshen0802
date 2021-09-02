@@ -1,7 +1,21 @@
 <h1 align="left">Hi 👋, I'm TsingShen Jin</h1>
 <h3 align="left">Veteran Native iOS and Android Application Developer from China</h3>
 
-<p>Want to build Mobile App? Faced at issues for mobile app projects? I'm READY for YOU. I have developed and delivered beautiful and high-quality iOS and Android apps for 7+ years and got strong experience in integrating Google Map, Google Analytics, Firebase, AWS, Google Cloud Messaging, REST APIs, Social Media, 3rd Party SDK, etc. for mobile apps. Because I'm familiar with various Programming Design Patterns and Agile Methodology, I can perform all sorts of tasks from start to ﬁnish, such as Prototype, POC, Completion/Deployment, Maintenance, Bugﬁx, etc. 
+- 👯 I’m looking to collaborate on **native iOS and Android projects.**
+
+- 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C**
+
+- 🌱 I’m currently learning **Blockchain Tech**
+
+- 📫 Reach me at **vtwoguru@gmail.com**
+
+<p>Want to build Mobile App?
+  <br/>
+  Faced at issues for mobile app projects? 
+  <br/>
+  I'm READY for YOU. 
+  <br/>
+  I have developed and delivered beautiful and high-quality iOS and Android apps for 7+ years and got strong experience in integrating Google Map, Google Analytics, Firebase, AWS, Google Cloud Messaging, REST APIs, Social Media, 3rd Party SDK, etc. for mobile apps. Because I'm familiar with various Programming Design Patterns and Agile Methodology, I can perform all sorts of tasks from start to ﬁnish, such as Prototype, POC, Completion/Deployment, Maintenance, Bugﬁx, etc. 
   <br/>
   Tech stacks 
   <br/>
@@ -16,16 +30,6 @@
   - Database: SQLite, Realm, Firebase, Core data
   <br/>
  </p>
-
-- 👯 I’m looking to collaborate on **native iOS and Android projects.**
-
-- 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C**
-- 
-- 🌱 I’m currently learning **Blockchain Tech**
-- 
-- 📫 Reach me at **vtwoguru@gmail.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingshen0802" alt="qingshen0802" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <table style="border-size:0px">
@@ -53,3 +57,5 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qingshen0802&label=Profile%20views&color=0e75b6&style=flat" alt="qingshen0802" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingshen0802" alt="qingshen0802" /></a> </p>
