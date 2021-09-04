@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Blockchain Tech**
 
 - 📫 Reach me at **vtwoguru@gmail.com**
+
+- Available communication languages **English, Chinese, Japanese**
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Tech Stacks:</h3>
 <table style="border-size:0px">
   <tr >
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"> Android </td>    
