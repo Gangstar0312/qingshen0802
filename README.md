@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm TsingShen Jin</h1>
+<h1 align="left">Hi 👋, I'm Yuri Jin</h1>
 <h3 align="left">Veteran Native iOS and Android Application Developer</h3>
 
 - 👯 I’m looking to collaborate on **native iOS and Android projects.**
