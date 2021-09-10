@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C**
 
-- 🌱 I’m currently learning **Blockchain Tech**
+- 🌱 I’m currently learning **Blockchain Tech, Rust and Solana**
 
 - 📫 Reach me at **vtwoguru@gmail.com**
 
