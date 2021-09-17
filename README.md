@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋  I am a </h1>
-<h3 align="left">Veteran Native iOS and Android Application Developer</h3>
+<h3 align="left">Software Engineer for Blockchain and Mobile Development</h3>
 
 - 👯 I’m looking to collaborate on **Blockchain and native iOS and Android projects.**
 
