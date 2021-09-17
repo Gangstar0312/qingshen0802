@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋  I am a </h1>
 <h3 align="left">Veteran Native iOS and Android Application Developer</h3>
 
-- 👯 I’m looking to collaborate on **native iOS and Android projects.**
+- 👯 I’m looking to collaborate on **Blockchain and native iOS and Android projects.**
 
-- 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C**
+- 💬 Ask me about **native mobile app development using Java, Kotlin, Swift and Objective C, Blockchain projects using Solidity, Solana, Rust**
 
-- 🌱 I’m currently learning **Blockchain Tech, Rust and Solana**
+- 🌱 I’m currently mastering **Blockchain Tech**
 
 - 📫 Reach me at **vtwoguru@gmail.com**
 
